@@ -1,0 +1,46 @@
+
+
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 120 120"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">Seun Logo</title>
+  <desc id="desc">Stylized S monogram logo</desc>
+
+  <!-- Navy background -->
+  <rect
+    width="120"
+    height="120"
+    rx="28"
+    fill="#1B2B4F"
+  />
+
+  <!-- Stylized S -->
+  <path
+    d="M82 34
+       C76 27 67 23 56 23
+       C39 23 28 32 28 45
+       C28 58 37 64 53 68
+       L65 71
+       C73 73 77 77 77 83
+       C77 91 69 97 58 97
+       C47 97 38 92 32 84"
+    fill="none"
+    stroke="#BA8567"
+    stroke-width="10"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <!-- Small finishing stroke -->
+  <path
+    d="M87 87
+       C83 94 75 100 65 103"
+    fill="none"
+    stroke="#BA8567"
+    stroke-width="6"
+    stroke-linecap="round"
+  />
+</svg>
